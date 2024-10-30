@@ -1,0 +1,10 @@
+id,nombre,descripcion,tiempo,calorias,tipo,grupoMuscular,pts,dificultad
+1,Fuerza Brazos,Desc,5,550,Flexibilidad,Brazos,4,1
+2,Piernas ligero,Desc,3,800,Cardio,Piernas,5,2
+3,Nombre,Desc,7,600,Fuerza,Brazos,10,3
+4,NombreGen1,DescGen1,10,800,Velocidad,Brazos,10,3
+5,NombreGen2,DescGen2,5,800,"Flexibilidad,Velocidad",Brazos,"99,8",3
+6,NombreGen3,DescGen3,5,800,"Flexibilidad,Cardio,Velocidad",Brazos,"99,100,15",3
+7,Nuevo Ej,Desc,10,600,Brazos,Brazos,5,1
+8,Nuevo Ej,Desc,10,600,Brazos,Brazos,5,1
+9,Nuevo Ej,Desc,10,600,Brazos,Brazos,5,1

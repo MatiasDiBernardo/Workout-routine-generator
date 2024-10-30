@@ -1,0 +1,14 @@
+id,nombre,descripcion,tiempo,calorias,tipo,grupoMuscular,pts,dificultad
+1,new namee,Abdominales superiores,5,500,Flexibilidad,Abdominales,,1
+2,nuevo nombre,Abdominales inferiores,5,550,Flexibilidad,Abdominales,,2
+3,nuevo nombre2,Abdominales cruzados superiores,7,600,Flexibilidad,Abdominales,,3
+5,Piernas,Nuevo entrenamiento de piernas.,10,1000,Muscular,Gemelos,5,1
+6,Piernas,Nuevo entrenamiento de piernas.,10,1000,Muscular,Gemelos,5,1
+7,Piernas,Nuevo entrenamiento de piernas.,10,1000,Muscular,Gemelos,5,1
+8,Fuerza Bruta,Nuevo entrenamiento de piernas.,10,1000,Muscular,Gemelos,5,1
+9,Fuerza Brazos,Desc,5,550,Flexibilidad,Brazos,4,1
+10,Piernas ligero,Desc,3,800,Cardio,Piernas,5,2
+11,Nombre,Desc,7,600,Fuerza,Brazos,10,3
+12,NombreGen1,DescGen1,10,800,Velocidad,Brazos,10,3
+13,NombreGen2,DescGen2,5,800,"Flexibilidad,Velocidad",Brazos,"99,8",3
+14,NombreGen3,DescGen3,5,800,"Flexibilidad,Cardio,Velocidad",Brazos,"99,100,15",3
