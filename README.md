@@ -1,4 +1,4 @@
-# Rutinas de Entrenamiento por MALO
+# Rutinas de Entrenamiento
 
 ## Descripción
 Este proyecto consiste en el desarrollo de una aplicación para la gestión de rutinas de entrenamiento. La aplicación permite elegir entre seguir una rutina predefinida o crear una nueva de manera dinámica.
